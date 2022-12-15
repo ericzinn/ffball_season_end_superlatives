@@ -1,0 +1,197 @@
+,pick_no,round,picked_by,player_display_name,sleeper_id,league_score,position_y,positional_rank,positional_pick,delta_pick
+0,1,1,mattlatham,Jonathan Taylor,6813,127.60000147670507,RB,22.0,1.0,-21.0
+1,2,1,niclath95,Christian McCaffrey,4034,233.5600020736456,RB,3.0,2.0,-1.0
+2,3,1,ujthechamp,Derrick Henry,3198,227.0600022599101,RB,4.0,3.0,-1.0
+3,4,1,carlogesualdo,Austin Ekeler,4663,242.20000187307596,RB,2.0,4.0,2.0
+4,5,1,anahan,Dalvin Cook,4029,174.50000166893005,RB,10.0,5.0,-5.0
+5,6,1,julesdefwatchesftbll,Najee Harris,7528,141.06000129133463,RB,16.0,6.0,-10.0
+6,7,1,jakesmyth,Justin Jefferson,6794,247.2600022405386,WR,1.0,1.0,0.0
+7,8,1,llatham65,Cooper Kupp,4039,161.90000128746033,WR,11.0,2.0,-9.0
+8,9,1,phan497,D'Andre Swift,6790,115.30000093579292,RB,27.0,7.0,-20.0
+9,10,1,andyhan4,Davante Adams,2133,236.60000185668468,WR,2.0,3.0,1.0
+10,11,1,alexludtke,Ja'Marr Chase,7564,153.90000123530626,WR,13.0,4.0,-9.0
+11,12,1,emilyhan,Alvin Kamara,4035,129.80000146478415,RB,21.0,8.0,-13.0
+12,13,1,petenotpetey,Stefon Diggs,2449,229.90000184625387,WR,4.0,5.0,1.0
+13,14,1,lauramarkey,Joe Mixon,4018,172.00000152736902,RB,11.0,9.0,-2.0
+14,15,2,lauramarkey,Tyreek Hill,3321,234.00000222027302,WR,3.0,6.0,3.0
+15,16,2,petenotpetey,Saquon Barkley,4866,204.40000200271606,RB,6.0,10.0,4.0
+16,17,2,emilyhan,Travis Kelce,1466,215.90000155568123,TE,1.0,1.0,0.0
+17,18,2,alexludtke,CeeDee Lamb,6786,173.70000150054693,WR,7.0,7.0,0.0
+18,19,2,andyhan4,Aaron Jones,4199,174.50000175088644,RB,9.0,11.0,2.0
+19,20,2,phan497,Mark Andrews,5012,127.90000101178885,TE,2.0,2.0,0.0
+20,21,2,llatham65,Nick Chubb,4988,213.50000197440386,RB,5.0,12.0,7.0
+21,22,2,jakesmyth,Javonte Williams,7588,33.00000041723251,RB,72.0,13.0,-59.0
+22,23,2,julesdefwatchesftbll,Mike Evans,2216,128.00000119954348,WR,22.0,8.0,-14.0
+23,24,2,anahan,Leonard Fournette,3969,152.90000134706497,RB,14.0,14.0,0.0
+24,25,2,carlogesualdo,Deebo Samuel,5872,134.00000125169754,WR,21.0,9.0,-12.0
+25,26,2,ujthechamp,Ezekiel Elliott,3164,139.90000117570162,RB,18.0,15.0,-3.0
+26,27,2,niclath95,A.J. Brown,5859,188.50000151991844,WR,5.0,10.0,5.0
+27,28,2,mattlatham,Josh Allen,4984,315.9199977591634,QB,3.0,1.0,-2.0
+28,29,3,mattlatham,Keenan Allen,1479,66.00000059604645,WR,70.0,11.0,-59.0
+29,30,3,niclath95,George Kittle,4217,92.00000074505806,TE,8.0,3.0,-5.0
+30,31,3,ujthechamp,Patrick Mahomes,4046,327.3999966979027,QB,2.0,2.0,0.0
+31,32,3,carlogesualdo,James Conner,4137,123.60000113397837,RB,24.0,16.0,-8.0
+32,33,3,anahan,Tee Higgins,6801,146.10000128298998,WR,15.0,12.0,-3.0
+33,34,3,julesdefwatchesftbll,David Montgomery,5892,122.00000131875277,RB,25.0,17.0,-8.0
+34,35,3,jakesmyth,Justin Herbert,6797,231.53999688476324,QB,9.0,3.0,-6.0
+35,36,3,llatham65,Cam Akers,6938,59.50000058859587,RB,52.0,18.0,-34.0
+36,37,3,phan497,D.J. Moore,4983,112.00000096857548,WR,35.0,13.0,-22.0
+37,38,3,andyhan4,Kyle Pitts,7553,61.60000053048134,TE,26.0,4.0,-22.0
+38,39,3,alexludtke,Terry McLaurin,5927,144.2000014334917,WR,16.0,14.0,-2.0
+39,40,3,emilyhan,Michael Pittman,6819,121.50000112503767,WR,26.0,15.0,-11.0
+40,41,3,petenotpetey,Travis Etienne,7543,131.30000153183937,RB,20.0,19.0,-1.0
+41,42,3,lauramarkey,Josh Jacobs,5850,258.800002604723,RB,1.0,20.0,19.0
+42,43,4,lauramarkey,Dalton Schultz,5001,78.50000064074993,TE,15.0,5.0,-10.0
+43,44,4,petenotpetey,Diontae Johnson,5937,101.5000009983778,WR,40.0,16.0,-24.0
+44,45,4,emilyhan,Courtland Sutton,5045,101.30000103265047,WR,42.0,17.0,-25.0
+45,46,4,alexludtke,Breece Hall,8155,104.60000101476908,RB,31.0,21.0,-10.0
+46,47,4,andyhan4,Mike Williams,4068,108.60000093281269,WR,36.0,18.0,-18.0
+47,48,4,phan497,J.K. Dobbins,6806,49.200000420212746,RB,56.0,22.0,-34.0
+48,49,4,llatham65,Antonio Gibson,6945,135.10000125318766,RB,19.0,23.0,4.0
+49,50,4,jakesmyth,Jerry Jeudy,6783,115.80000087618828,WR,29.0,19.0,-10.0
+50,51,4,julesdefwatchesftbll,Lamar Jackson,4881,238.0799991339445,QB,7.0,4.0,-3.0
+51,52,4,anahan,Darren Waller,2505,31.50000026077032,TE,42.0,6.0,-36.0
+52,53,4,carlogesualdo,Brandin Cooks,2197,80.7000007852912,WR,54.0,20.0,-34.0
+53,54,4,ujthechamp,Jaylen Waddle,7526,164.50000151991844,WR,9.0,21.0,12.0
+54,55,4,niclath95,Clyde Edwards-Helaire,6820,89.8000006750226,RB,38.0,24.0,-14.0
+55,56,4,mattlatham,Elijah Mitchell,7561,24.600000344216824,RB,81.0,25.0,-56.0
+56,57,5,mattlatham,Amon-Ra St. Brown,7547,175.7000014707446,WR,6.0,22.0,16.0
+57,58,5,niclath95,Allen Robinson,1992,68.40000050514936,WR,66.0,23.0,-43.0
+58,59,5,ujthechamp,DK Metcalf,5846,152.9000012949109,WR,14.0,24.0,10.0
+59,60,5,carlogesualdo,Kyler Murray,5849,200.51999850571156,QB,15.0,5.0,-10.0
+60,61,5,anahan,Joe Burrow,6770,295.79999705404043,QB,4.0,6.0,2.0
+61,62,5,julesdefwatchesftbll,Michael Thomas,3199,43.100000254809856,WR,100.0,25.0,-75.0
+62,63,5,jakesmyth,Chris Godwin,4037,119.2000010535121,WR,28.0,26.0,-2.0
+63,64,5,llatham65,Adam Thielen,1689,122.0000009611249,WR,25.0,27.0,2.0
+64,65,5,phan497,JuJu Smith-Schuster,4040,120.70000113546848,WR,27.0,28.0,1.0
+65,66,5,andyhan4,A.J. Dillon,6828,106.80000116676092,RB,29.0,26.0,-3.0
+66,67,5,alexludtke,Gabe Davis,6943,124.60000103712082,WR,23.0,29.0,6.0
+67,68,5,emilyhan,Marquise Brown,5848,100.00000084191561,WR,44.0,30.0,-14.0
+68,69,5,petenotpetey,Jalen Hurts,6904,328.8799981996417,QB,1.0,7.0,6.0
+69,70,5,lauramarkey,Amari Cooper,2309,159.9000013023615,WR,12.0,31.0,19.0
+70,71,6,lauramarkey,Tom Brady,167,200.69999678432941,QB,14.0,8.0,-6.0
+71,72,6,petenotpetey,Damien Harris,5890,70.30000068247318,RB,47.0,27.0,-20.0
+72,73,6,emilyhan,Miles Sanders,6151,190.30000171810389,RB,8.0,28.0,20.0
+73,74,6,alexludtke,T.J. Hockenson,5844,123.70000103861094,TE,3.0,7.0,4.0
+74,75,6,andyhan4,Darnell Mooney,7090,81.50000073760748,WR,52.0,32.0,-20.0
+75,76,6,phan497,Devin Singletary,6130,127.20000129938126,RB,23.0,29.0,6.0
+76,77,6,llatham65,Russell Wilson,1234,171.29999781399965,QB,19.0,9.0,-10.0
+77,78,6,jakesmyth,Chase Edmonds,5000,46.600000344216824,RB,58.0,30.0,-28.0
+78,79,6,julesdefwatchesftbll,Cordarrelle Patterson,1535,95.60000094026327,RB,35.0,31.0,-4.0
+79,80,6,anahan,Kareem Hunt,4098,96.7000008970499,RB,34.0,32.0,-2.0
+80,81,6,carlogesualdo,Dallas Goedert,5022,90.90000081062317,TE,9.0,8.0,-1.0
+81,82,6,ujthechamp,Dawson Knox,5906,73.30000054836273,TE,17.0,9.0,-8.0
+82,83,6,niclath95,Aaron Rodgers,96,190.25999753922224,QB,18.0,10.0,-8.0
+83,84,6,mattlatham,Rashod Bateman,7571,45.000000424683094,WR,96.0,33.0,-63.0
+84,85,7,mattlatham,Mike Gesicki,4993,62.900000400841236,TE,24.0,10.0,-14.0
+85,86,7,niclath95,DeAndre Hopkins,1426,107.30000097304583,WR,37.0,34.0,-3.0
+86,87,7,ujthechamp,,,,,,,
+87,88,7,carlogesualdo,Christian Kirk,4950,163.6000013127923,WR,10.0,35.0,25.0
+88,89,7,anahan,Tony Pollard,5967,203.8000017479062,RB,7.0,33.0,26.0
+89,90,7,julesdefwatchesftbll,Zach Ertz,1339,92.10000060498714,TE,7.0,11.0,4.0
+90,91,7,jakesmyth,Allen Lazard,5185,114.500000923872,WR,32.0,36.0,4.0
+91,92,7,llatham65,Kenneth Walker,8151,140.00000113993883,RB,17.0,34.0,17.0
+92,93,7,phan497,DeVonta Smith,7525,137.50000115484,WR,19.0,37.0,18.0
+93,94,7,andyhan4,Dak Prescott,3294,134.27999848872423,QB,25.0,11.0,-14.0
+94,95,7,alexludtke,Rashaad Penny,4985,49.200000539422035,RB,55.0,35.0,-20.0
+95,96,7,emilyhan,Trey Lance,7610,12.459999926388264,QB,51.0,12.0,-39.0
+96,97,7,petenotpetey,Hunter Renfrow,5955,24.700000286102295,WR,128.0,38.0,-90.0
+97,98,7,lauramarkey,Rhamondre Stevenson,7611,170.70000167936087,RB,12.0,36.0,24.0
+98,99,8,lauramarkey,Brandon Aiyuk,6803,144.20000113546848,WR,17.0,39.0,22.0
+99,100,8,petenotpetey,Pat Freiermuth,7600,101.50000093877316,TE,6.0,12.0,6.0
+100,101,8,emilyhan,Elijah Moore,7596,55.30000052601099,WR,85.0,40.0,-45.0
+101,102,8,alexludtke,Matthew Stafford,421,111.37999814748764,QB,29.0,13.0,-16.0
+102,103,8,andyhan4,Drake London,8112,99.80000079423189,WR,45.0,41.0,-4.0
+103,104,8,phan497,Dameon Pierce,8129,147.4000016450882,RB,15.0,37.0,22.0
+104,105,8,llatham65,Cole Kmet,6826,88.20000062137842,TE,11.0,13.0,2.0
+105,106,8,jakesmyth,Melvin Gordon,2320,69.60000080615282,RB,48.0,38.0,-10.0
+106,107,8,julesdefwatchesftbll,Chris Olave,8144,135.700001321733,WR,20.0,42.0,22.0
+107,108,8,anahan,Tyler Lockett,2374,170.10000133514404,WR,8.0,43.0,35.0
+108,109,8,carlogesualdo,James Cook,8138,59.90000072866678,RB,51.0,39.0,-12.0
+109,110,8,ujthechamp,Marquez Valdes-Scantling,5086,83.30000089854002,WR,51.0,44.0,-7.0
+110,111,8,niclath95,James Robinson,6955,82.10000070929527,RB,43.0,40.0,-3.0
+111,112,8,mattlatham,Robert Woods,1352,65.60000060498714,WR,72.0,45.0,-27.0
+112,113,9,mattlatham,Alexander Mattison,5987,55.600000374019146,RB,54.0,41.0,-13.0
+113,114,9,niclath95,Chase Claypool,6886,77.14000071585178,WR,58.0,46.0,-12.0
+114,115,9,ujthechamp,,,,,,,
+115,116,9,carlogesualdo,Kadarius Toney,7606,22.500000186264515,WR,130.0,47.0,-83.0
+116,117,9,anahan,,,,,,,
+117,118,9,julesdefwatchesftbll,Michael Carter,7607,90.40000089257956,RB,37.0,42.0,5.0
+118,119,9,jakesmyth,Darrell Henderson,5916,65.0000005736947,RB,50.0,43.0,-7.0
+119,120,9,llatham65,Treylon Burks,8135,55.60000055283308,WR,84.0,48.0,-36.0
+120,121,9,phan497,Isaiah Spiller,8153,6.9000000804662704,RB,109.0,44.0,-65.0
+121,122,9,andyhan4,,,,,,,
+122,123,9,alexludtke,Garrett Wilson,8146,141.70000129938126,WR,18.0,49.0,31.0
+123,124,9,emilyhan,Skyy Moore,8168,31.40000033378601,WR,114.0,50.0,-64.0
+124,125,9,petenotpetey,Nyheim Hines,5347,45.30000037699938,RB,61.0,45.0,-16.0
+125,126,9,lauramarkey,Kenneth Gainwell,7567,58.80000041425228,RB,53.0,46.0,-7.0
+126,127,10,lauramarkey,George Pickens,8137,101.4000009149313,WR,41.0,51.0,10.0
+127,128,10,petenotpetey,,,,,,,
+128,129,10,emilyhan,Derek Carr,2028,200.47999734431505,QB,16.0,14.0,-2.0
+129,130,10,alexludtke,,,,,,,
+130,131,10,andyhan4,Tyler Boyd,3225,114.92000095546246,WR,31.0,52.0,21.0
+131,132,10,phan497,Romeo Doubs,8121,62.00000048428774,WR,77.0,53.0,-24.0
+132,133,10,llatham65,,,,,,,
+133,134,10,jakesmyth,Julio Jones,947,54.600000470876694,WR,86.0,54.0,-32.0
+134,135,10,julesdefwatchesftbll,Kirk Cousins,1166,218.11999708414078,QB,11.0,15.0,4.0
+135,136,10,anahan,,,,,,,
+136,137,10,carlogesualdo,,,,,,,
+137,138,10,ujthechamp,Brian Robinson,8154,81.50000090152025,RB,44.0,47.0,3.0
+138,139,10,niclath95,,,,,,,
+139,140,10,mattlatham,Michael Gallup,5038,66.70000050216913,WR,68.0,55.0,-13.0
+140,141,11,mattlatham,,,,,,,
+141,142,11,niclath95,,,,,,,
+142,143,11,ujthechamp,Hunter Henry,3214,66.60000060498714,TE,20.0,14.0,-6.0
+143,144,11,carlogesualdo,,,,,,,
+144,145,11,anahan,DeVante Parker,2319,64.50000068545341,WR,73.0,56.0,-17.0
+145,146,11,julesdefwatchesftbll,Jarvis Landry,1825,47.700000405311584,WR,93.0,57.0,-36.0
+146,147,11,jakesmyth,Tua Tagovailoa,6768,204.45999740809202,QB,13.0,16.0,3.0
+147,148,11,llatham65,,,,,,,
+148,149,11,phan497,Trevor Lawrence,7523,233.87999746203423,QB,8.0,17.0,9.0
+149,150,11,andyhan4,,,,,,,
+150,151,11,alexludtke,Albert Okwuegbunam,6843,8.500000074505806,TE,84.0,15.0,-69.0
+151,152,11,emilyhan,,,,,,,
+152,153,11,petenotpetey,Justin Fields,7591,244.339999653399,QB,6.0,18.0,12.0
+153,154,11,lauramarkey,Mac Jones,7527,115.61999816447496,QB,28.0,19.0,-9.0
+154,155,12,lauramarkey,,,,,,,
+155,156,12,petenotpetey,Jahan Dotson,8119,64.10000033676624,WR,74.0,58.0,-16.0
+156,157,12,emilyhan,Rachaad White,8136,87.20000091195107,RB,39.0,48.0,9.0
+157,158,12,alexludtke,Tyler Allgeier,8132,86.10000102967024,RB,40.0,49.0,9.0
+158,159,12,andyhan4,Jamaal Williams,4149,169.8000012859702,RB,13.0,50.0,37.0
+159,160,12,phan497,,,,,,,
+160,161,12,llatham65,Khalil Herbert,7608,103.50000105053186,RB,32.0,51.0,19.0
+161,162,12,jakesmyth,Rondale Moore,7601,67.40000060945749,WR,67.0,59.0,-8.0
+162,163,12,julesdefwatchesftbll,,,,,,,
+163,164,12,anahan,David Njoku,4033,90.5000007674098,TE,10.0,16.0,6.0
+164,165,12,carlogesualdo,J.D. McKissic,3664,42.30000039935112,RB,63.0,52.0,-11.0
+165,166,12,ujthechamp,Isiah Pacheco,8205,84.50000098347664,RB,42.0,53.0,11.0
+166,167,12,niclath95,Raheem Mostert,2749,106.60000109672546,RB,30.0,54.0,24.0
+167,168,12,mattlatham,Mark Ingram,956,40.10000044852495,RB,67.0,55.0,-12.0
+168,169,13,mattlatham,Jameson Williams,8148,10.600000061094761,WR,153.0,60.0,-93.0
+169,170,13,niclath95,Irv Smith,6126,38.80000025033951,TE,37.0,17.0,-20.0
+170,171,13,ujthechamp,Zamir White,8139,6.200000092387199,RB,114.0,56.0,-58.0
+171,172,13,carlogesualdo,D.J. Chark,4951,58.60000045597553,WR,81.0,61.0,-20.0
+172,173,13,anahan,Isaiah McKenzie,4197,91.90000063925982,WR,47.0,62.0,15.0
+173,174,13,julesdefwatchesftbll,,,,,,,
+174,175,13,jakesmyth,Jerick McKinnon,2161,98.10000086575747,RB,33.0,57.0,24.0
+175,176,13,llatham65,Tyler Higbee,3271,71.50000067800283,TE,18.0,18.0,0.0
+176,177,13,phan497,Jameis Winston,2306,45.91999925673008,QB,37.0,20.0,-17.0
+177,178,13,andyhan4,Russell Gage,5110,52.400000378489494,WR,88.0,63.0,-25.0
+178,179,13,alexludtke,,,,,,,
+179,180,13,emilyhan,,,,,,,
+180,181,13,petenotpetey,Wan'Dale Robinson,8126,40.10000033676624,WR,106.0,64.0,-42.0
+181,182,13,lauramarkey,Chuba Hubbard,7594,47.10000046342611,RB,57.0,58.0,1.0
+182,183,14,lauramarkey,,,,,,,
+183,184,14,petenotpetey,Robert Tonyan,4602,65.7000005543232,TE,21.0,19.0,-2.0
+184,185,14,emilyhan,Christian Watson,8167,113.40000069886446,WR,34.0,65.0,31.0
+185,186,14,alexludtke,Deshaun Watson,4017,23.679999716579914,QB,45.0,21.0,-24.0
+186,187,14,andyhan4,Ronald Jones,5052,3.900000050663948,RB,117.0,59.0,-58.0
+187,188,14,phan497,,,,,,,
+188,189,14,llatham65,Jakobi Meyers,5947,100.2000008970499,WR,43.0,66.0,23.0
+189,190,14,jakesmyth,Kenny Golladay,4131,7.100000075995922,WR,166.0,67.0,-99.0
+190,191,14,julesdefwatchesftbll,Mecole Hardman,5917,81.30000048875809,WR,53.0,68.0,15.0
+191,192,14,anahan,Josh Palmer,7670,114.40000099688768,WR,33.0,69.0,36.0
+192,193,14,carlogesualdo,K.J. Osborn,7066,66.10000045597553,WR,69.0,70.0,1.0
+193,194,14,ujthechamp,Matt Ryan,24,142.99999753385782,QB,24.0,22.0,-2.0
+194,195,14,niclath95,Nico Collins,7569,78.60000071674585,WR,55.0,71.0,16.0
+195,196,14,mattlatham,Alec Pierce,8142,78.00000075995922,WR,56.0,72.0,16.0
